@@ -10,4 +10,4 @@ Since 2014, we’ve helped more than 500,000 people of all ages enjoy the best o
 - Heroku Hosting
 - Firebase used for Front-End
 
-Live site link: [https://travel-now-b2498.web.app/](https://travel-now-b2498.web.app/)
+Live site link: [https://travel-now-v1.web.app/](https://travel-now-v1.web.app/)
